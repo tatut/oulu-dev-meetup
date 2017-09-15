@@ -1,0 +1,6 @@
+{:user "db username"
+ :password "db password"
+ :dbtype "postgresql"
+ :dbname "polls"
+ :host "(db host on rds).rds.amazonaws.com"
+ :port 5432}
